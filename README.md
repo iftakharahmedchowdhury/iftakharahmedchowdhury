@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iftakharahmedchowdhury
 - 👀 I’m interested in programming
 - 🌱 C++,DSA,JAVA,C#,Web Development(HTML,CSS,TAILWIND,JAVASCRIPT,PHP),Database Management(SQL and MySQL)
-- Currently, I am learning ASP.NET (Web Application MVC architecture, Entity Framework, Web API) and ADVANCE JAVA (Servlets, JSP, JSTL, Spring Framework).
+- Currently, I am learning ASP.NET (Web Application MVC architecture, Entity Framework, Web API) , ADVANCE JAVA (Servlets, JSP, JSTL, Spring Framework) and React.
 - 
 
 <!---
